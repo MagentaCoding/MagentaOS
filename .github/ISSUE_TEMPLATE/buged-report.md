@@ -15,7 +15,7 @@ assignees: ''
 - [ ] TOS – Terminal Operating System
 - [ ] MOS – Mobile Operating System
 - [ ] HWOS – Help Wanted Operating System
-- [X] MSODS – MagentaOS Device Operating System
+- [X] MSDOS – MagentaOS Device Operating System
 - [X] KOS – Kernel Operating System
 - [ ] KA-OS – Keine Ahnung Operating System (Je ne sais pas Système d'exploitation)
 
