@@ -18,6 +18,7 @@ assignees: ''
 - [X] MSDOS – MagentaOS Device Operating System
 - [X] KOS – Kernel Operating System
 - [ ] KA-OS – Keine Ahnung Operating System (Je ne sais pas Système d'exploitation)
+- [ ] SOS – Server Operating System
 
 ## What is your bug?
 
