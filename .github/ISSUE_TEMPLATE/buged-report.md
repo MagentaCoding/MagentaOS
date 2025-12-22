@@ -6,7 +6,7 @@ labels: B.U.G.
 assignees: ''
 
 ---
-
+<!-- Welcome to the Bug Report Form, please fill this out seriously if you REALLY have a bug to report -->
 # Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS Bug report form
 ## What MagentaOS version do you use?
 <!-- Mark the Operating System you use with an X in the [Box], BUT dont unmark MSDOS and KOS because when you do we can't help you, thank you -->
@@ -22,16 +22,12 @@ assignees: ''
 
 ## What is your bug?
 
-nö
 
 ## What is your os version?
 
-ka.1.64.654.651.584.65.4.43.6.43.459.843.5.72.19.846.76.16.84.64.80.134.128.183
 
 ## Do you want to bother me with it?
 - [ ] Yes
 - [ ] No
 
 ## Do you 
-
-Do I what?
