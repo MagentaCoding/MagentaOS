@@ -1,16 +1,6 @@
 # MagentaOS
-A OS, more shortly (or never, I don't know when I will ever edit this README again so...)
+¡Hola! Welcome to MagentaOS!
 
-Du willst wissen wie viel dein Auto wert ist? Dann gehe jetzt auf [wirkaufendeinauto.de](https://www.magentaweb.org) und siehe deinen Top-Verkaufspreis
+MagentaOS will be delivered in different shapes and sizes – it does only mean it will be avalible in different versions – and will be great (but not competitive to Windows or Mac, well not now), the OS will be delivered as an "as is" and is currently NOT avalible for the market, because it will be programmed here (mostly localy on my PC until I will push it onto this repository) 
 
-Lidl ist schon wieder top sieger in irgendeiner behinderten Kategorie für Discounter die eh keinen juckt
-LIDL lohnt sich (nicht)
-
-real,- einmal hin alles drin
-
-So you know what time it is?
-It's muffin time!
-Okay, time of death muffin time
-What what?
-
-###### Last edited: 12/05/2025 2:03 PM | 05.12.2025 14:03
+###### Last edited: 12/22/2025 11:36 PM | 22.12.2025 22:36
