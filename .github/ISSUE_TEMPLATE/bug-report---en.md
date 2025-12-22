@@ -1,7 +1,7 @@
 ---
-name: BUGED Report
+name: Bug Report – EN
 about: Create a report to help us improve
-title: "[Buged] "
+title: "[BUG – EN] "
 labels: B.U.G.
 assignees: MagentaCoding
 
