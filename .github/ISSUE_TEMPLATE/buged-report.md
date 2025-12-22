@@ -22,12 +22,16 @@ assignees: ''
 
 ## What is your bug?
 
+nö
 
 ## What is your os version?
 
+ka.1.64.654.651.584.65.4.43.6.43.459.843.5.72.19.846.76.16.84.64.80.134.128.183
 
 ## Do you want to bother me with it?
 - [ ] Yes
 - [ ] No
 
 ## Do you 
+
+Do I what?
