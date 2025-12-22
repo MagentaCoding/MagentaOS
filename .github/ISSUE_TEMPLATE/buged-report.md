@@ -1,11 +1,12 @@
 ---
 name: BUGED Report
 about: Create a report to help us improve
-title: "[Buged]"
+title: "[Buged] "
 labels: B.U.G.
-assignees: ''
+assignees: MagentaCoding
 
 ---
+
 <!-- Welcome to the Bug Report Form, please fill this out seriously if you REALLY have a bug to report -->
 # Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS Bug report form
 ## What MagentaOS version do you use?
@@ -23,11 +24,15 @@ assignees: ''
 ## What is your bug?
 
 
-## What is your os version?
+## What is your OS version?
 
 
 ## Do you want to bother me with it?
 - [ ] Yes
 - [ ] No
 
-## Do you 
+## Do you know how the Dev Team can reproduce the bug?
+
+
+## Additional notes?
+### Such as logs, event logs, screenshots or videos or anything that can or could help us
