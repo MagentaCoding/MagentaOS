@@ -1,6 +1,6 @@
 # MagentaOS
 ¡Hola! Welcome to MagentaOS!
 
-MagentaOS will be delivered in different shapes and sizes – it does only mean it will be available in different versions – and will be great (but not competitive to Windows or Mac, well not now), the OS will be delivered as an "as is" and is currently NOT avalible for the market, because it will be programmed here (mostly locally on my PC until I will push it onto this repository) 
+MagentaOS will be delivered in different shapes and sizes – it does only mean it will be available in different versions – and will be great (but not competitive to Windows or Mac, well not now), the OS will be delivered as an "as is" and is currently NOT avalible for the market, because it will be programmed here (mostly locally on my PC until I will push it onto this repository). If you want it maybe in the future you can read the TOU here [MagentaOS TOU](./TOU.md)
 
 ###### Last edited: 12/22/2025 11:45 PM | 22.12.2025 22:45
