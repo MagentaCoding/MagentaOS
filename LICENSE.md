@@ -14,4 +14,7 @@ The idea to create a own OS is copyrighted to no one, you can start your own OS 
 ## Copyright of User-generated content, functions and security fixes*
 The copyright of User-generated content goes to the developer/person who developed it, that means every part of content that was not developed by the MagentaOS Team, is copyrighted to the user/developer/person/individual/civilan who developed that content for MagentaOS
 
+### *User-generated content, functions and security fixes
+User-generated content, functions and security fixes means everything not developed by Alexander Gal or the MagentaOS Team
+
 ###### Last edited: 01/04/2026 11:37 PM | 04.01.2026 23:37
