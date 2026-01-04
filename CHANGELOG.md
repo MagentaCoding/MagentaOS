@@ -1,3 +1,2 @@
 # MagentaOS Changelog
-## Whiteboard v1
-Welcome! This is the whiteboard! Here stands nothing! BECAUSE I DIDN'T STARTET CODING YET
+Welcome to the MagentaOS Changelog, as you can see here, here stands nothing because I didn't started coding yet

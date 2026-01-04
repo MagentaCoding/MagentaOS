@@ -1,2 +1,2 @@
 # MagentaOS Installtion & Setup Guide
-No
+No, and I SAID stop read the files, thank you
