@@ -8,7 +8,7 @@ assignees: MagentaCoding
 ---
 
 <!-- Welcome to the Bug Report Form, please fill this out seriously if you REALLY have a bug to report -->
-# Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS Bug report form
+# Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-SOS Bug report form
 ## What MagentaOS version do you use?
 <!-- Mark the Operating System you use with an X in the [Box], BUT dont unmark MSDOS and KOS because when you do we can't help you, thank you -->
 - [ ] GOS – Graphical Operating System
