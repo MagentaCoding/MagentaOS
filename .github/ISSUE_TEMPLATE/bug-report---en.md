@@ -10,7 +10,11 @@ assignees: MagentaCoding
 <!-- Welcome to the Bug Report Form, please fill this out seriously if you REALLY have a bug to report -->
 # Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-SOS Bug report form
 ## What MagentaOS version do you use?
-<!-- Mark the Operating System you use with an X in the [Box], BUT dont unmark MSDOS and KOS because when you do we can't help you, thank you -->
+<!--
+		Mark the Operating System you use with an X in the [Box]
+		BUT dont unmark MSDOS and KOS because when you do we can't help you, thank you
+		If you unmark MSDOS and KOS you don't have an OS because ever Operating System Version from MagentaOS is an MSDOS and ever Operating System Version from MagentaOS has a kernel, without a kernel it isn't an OS and it couldn't boot
+-->
 - [ ] GOS – Graphical Operating System
 - [ ] LOS – Lite Operating System
 - [ ] TOS – Terminal Operating System
