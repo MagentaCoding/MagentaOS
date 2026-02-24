@@ -1,3 +1,4 @@
+<img width="4096" height="1716" alt="MagentaOS GitHub Banner" src="https://github.com/user-attachments/assets/78c1ee50-0c44-463c-ac5a-1afa47d990eb" />
 # MagentaOS
 ¡Hola! Welcome to MagentaOS!
 
