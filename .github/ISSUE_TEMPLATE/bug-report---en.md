@@ -8,7 +8,7 @@ assignees: MagentaCoding
 ---
 
 <!-- Welcome to the Bug Report Form, please fill this out seriously if you REALLY have a bug to report -->
-# Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-SOS Bug report form
+# Á la welcome to the MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-SOS-TVOS Bug report form
 ## What MagentaOS version do you use?
 <!--
 		Mark the Operating System you use with an X in the [Box]
@@ -24,6 +24,7 @@ assignees: MagentaCoding
 - [X] KOS – Kernel Operating System
 - [ ] KA-OS – Keine Ahnung Operating System (Je ne sais pas Système d'exploitation)
 - [ ] SOS – Server Operating System
+- [ ] TVOS – Television Operating System
 
 ## What is your bug?
 

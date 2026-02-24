@@ -7,23 +7,29 @@ assignees: MagentaCoding
 
 ---
 
-# Willkommen beim MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-Fehlerberichtsformular
+<!-- Willkommen beim Fehlerberichtsformular. Bitte füllen Sie dieses Formular sorgfältig aus, wenn Sie WIRKLICH einen Fehler melden möchten. -->
+# Willkommen beim Fehlerberichtsformular für MagentaOS-GOS-LOS-TOS-MOS-MSDOS-HWOS-KOS-KA-OS-SOS-TVOS.
 ## Welche MagentaOS-Version verwenden Sie?
-<!-- Markieren Sie das von Ihnen verwendete Betriebssystem mit einem X im [Kästchen], aber entfernen Sie nicht die Markierung bei MSDOS und KOS, da wir Ihnen sonst nicht helfen können. Vielen Dank. -->
+<!--
+        Markieren Sie das von Ihnen verwendete Betriebssystem mit einem X im [Kästchen]
+        Aber entfernen Sie nicht die Markierung bei MSDOS und KOS, da wir Ihnen sonst nicht helfen können. Vielen Dank.
+		Wenn Sie MSDOS und KOS deaktivieren, haben Sie kein Betriebssystem, da jede Betriebssystemversion von MagentaOS ein MSDOS ist und jede Betriebssystemversion von MagentaOS einen Kernel hat. Ohne Kernel ist es kein Betriebssystem und kann nicht booten.
+-->
 - [ ] GOS – Grafisches Betriebssystem
 - [ ] LOS – Lite-Betriebssystem
 - [ ] TOS – Terminal-Betriebssystem
 - [ ] MOS – Mobiles Betriebssystem
-- [ ] HWOS – Help Wanted Betriebssystem
-- [X] MSDOS – MagentaOS Device Betriebssystem
-- [X] KOS – Kernel Betriebssystem
-- [ ] KA-OS – Keine Ahnung Betriebssystem (Je ne sais pas Système d'exploitation)
-- [ ] SOS – Server Betriebssystem
+- [ ] HWOS – Help Wanted Operating System
+- [X] MSDOS – MagentaOS-Gerätebetriebssystem
+- [X] KOS – Kernel-Betriebssystem
+- [ ] KA-OS – Keine Ahnung-Betriebssystem (Je ne sais pas Système d'exploitation)
+- [ ] SOS – Server-Betriebssystem
+- [ ] TVOS – Television Operating System
 
-## Was ist Ihr Bug?
+## Was ist Ihr Fehler?
 
 
-## Welche Betriebssystemversion verwenden Sie?
+## Welche OS-Version verwenden Sie?
 
 
 ## Möchten Sie mich damit nerven?
@@ -34,4 +40,4 @@ assignees: MagentaCoding
 
 
 ## Weitere Anmerkungen?
-### Zum Beispiel Protokolle, Ereignisprotokolle, Screenshots oder Videos oder alles, was uns helfen könnte oder könnte
+### Wie z. B. Protokolle, Ereignisprotokolle, Screenshots oder Videos oder alles, was uns helfen kann oder könnte
