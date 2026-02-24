@@ -1,4 +1,5 @@
 <img width="4096" height="1716" alt="MagentaOS GitHub Banner" src="https://github.com/user-attachments/assets/78c1ee50-0c44-463c-ac5a-1afa47d990eb" />
+
 # MagentaOS
 ¡Hola! Welcome to MagentaOS!
 
@@ -8,4 +9,4 @@ MagentaOS will be delivered in different shapes and sizes – it does only mean 
 ### [MagentaOS Terms of Service](./TERMSOFSERVICE.md)
 ### [MagentaOS Terms of Use](./TOU.md)
 
-###### Last edited: 12/22/2025 11:45 PM | 22.12.2025 22:45
+###### Last edited: 02/24/2026 09:58 PM | 24.02.2026 21:58
