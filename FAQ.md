@@ -19,3 +19,22 @@ A PC, a monitor, and the mental strength to unzip 20 files without crying.
 ## Can I run Crysis on MagentaOS?
 
 You can't even run MagentaOS on MagentaOS yet. Stop asking.
+
+## Can I contribute to the Kernel?
+
+
+## Why is it called "MagentaOS"?
+
+
+## Is it faster than Windows 11?
+
+
+## Will there be a Package Manager?
+
+
+## Does it support Raytracing?
+
+
+## What happens if I find a bug?
+
+Sorry, the Deutsche Bahn had a delay so my train was delayed, I want 5 euros for that, and what was your question again? Am I a German? Yes I am a German
