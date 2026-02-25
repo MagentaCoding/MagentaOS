@@ -37,8 +37,12 @@ To anything regarding the copyright claims of the content of your contribution s
 
 All discussions regarding contributions must be factual and respectful. Violations of the MagentaOS Code of Conduct may result in immediate rejection of a submission.
 
-## 5. Changes to These Guidelines
+## 6. If you want your name on the List of contributors
+
+Then feel free to contact me! *I am going to put your name on the "These people just wants to be list of contributors without doing anything" so watch what you're doing*
+
+## 7. Changes to These Guidelines
 
 These Contributing Guidelines may be updated or expanded at any time, especially as MagentaOS enters active development.
 
-###### Last edited: 01/05/2026 01:10 AM | 05.01.2026 01:10
+###### Last edited: 02/25/2026 09:19 PM | 25.02.2026 19:19
