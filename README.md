@@ -9,6 +9,6 @@ MagentaOS will be delivered in different shapes and sizes – it does only mean 
 ### [MagentaOS Terms of Service](./TERMSOFSERVICE.md)
 ### [MagentaOS Terms of Use](./TOU.md)
 ### [MagentaOS Open Source License](./LICENSE.md)
-### [MagentaOS Wiki](./wiki/)
+### [MagentaOS Wiki](https://github.com/MagentaCoding/MagentaOS/wiki)
 
 ###### Last edited: 02/25/2026 07:01 PM | 25.02.2026 19:01
