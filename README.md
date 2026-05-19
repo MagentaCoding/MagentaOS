@@ -11,6 +11,4 @@ MagentaOS will be delivered in different shapes and sizes – it does only mean 
 ### [MagentaOS Open Source License](./LICENSE.md)
 ### [MagentaOS Wiki](https://github.com/MagentaCoding/MagentaOS/wiki)
 
-###### Last edited: 03/12/2026 07:39 PM | 12.03.2026 19:39
-
-[![](https://gamebanana.com/mods/embeddables/659477?type=large)](https://gamebanana.com/mods/659477)
+###### Last edited: 05/19/2026 10:33 PM | 19.05.2026 22:33
