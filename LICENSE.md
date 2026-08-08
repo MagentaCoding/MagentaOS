@@ -8,6 +8,14 @@ The OS is copyrighted to the MagentaOS Team, you can fork it, or to the fuck you
 
 Thank ya all
 
+## The Contributing Programm in Legal Language
+You may use, modify, fork, redistribute, and publish modified versions of MagentaOS for any purpose, provided that:
+1. the About section clearly states “Forked from MagentaOS”; and
+2. modified or forked versions are not distributed or marketed under the name “MagentaOS” in a way that suggests they are the original MagentaOS project.
+
+Thank ya
+
+
 ## Original OS Copyright
 All of this OS is copyrighted to Alexander Gal
 
