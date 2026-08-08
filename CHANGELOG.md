@@ -1,3 +1,4 @@
 # MagentaOS Changelog
 
-Welcome to the MagentaOS Changelog, as you can see here, here stands nothing because I didn't started coding yet
+## v0.0
+- Added the files and directories to this repo
