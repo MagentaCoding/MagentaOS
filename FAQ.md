@@ -2,7 +2,7 @@
 
 ## Why is MagentaOS not publicly avalible?
 
-Due to the current developement status – ***Coming irgendwann***
+Due to the current developement status – ***Coming irgendwann™***
 
 ## What is wrong with you?
 
@@ -38,3 +38,7 @@ You can't even run MagentaOS on MagentaOS yet. Stop asking.
 ## What happens if I find a bug?
 
 Sorry, the Deutsche Bahn had a delay so my train was delayed, I want 5 euros for that, and what was your question again? Am I a German? Yes I am a German
+
+## Raytracing? DOES IT HAVE THAT SHIT?!
+
+Do. You. Have. An. NVIDIA Grapics Card? If no then no, if yes then wait until the release
