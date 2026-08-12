@@ -22,9 +22,9 @@ All of this OS is copyrighted to Alexander Gal
 © Alexander Gal / MagentaOS Team | All rights reserved | Alle Rechte vorbehalten | Tous droits réservés | Todos los derechos reservados
 
 ## Copyright of User-generated content, functions and security fixes*
-The copyright of User-generated content goes to the developer/person who developed it, that means every part of content that was not developed by the MagentaOS Team, is copyrighted to the user/developer/person/individual/civilan/"legal containers" with basic human rights/someone with guns in the USA/someone not in the USA/contributor/creator/author/programmer/coder/maintainer/GitHub user/participant/individual contributor/end user/software developer/software engineer/engineer/designer/builder/modder/hacker/tinkerer/enthusiast/collaborator/volunteer/copyright holder/rights holder/community member/community contributor/project member/project contributor/independent developer/independent contributor/open-source contributora Human with basic human rights who developed that content for MagentaOS
+The copyright of User-generated content goes to the developer/person who developed it, that means every part of content that was not developed by the MagentaOS Team, is copyrighted to the user/developer/person/individual/civilan/"legal containers" with basic human rights/someone with guns in the USA/someone not in the USA/contributor/creator/author/programmer/coder/maintainer/GitHub user/participant/individual contributor/end user/software developer/software engineer/engineer/designer/builder/modder/hacker/tinkerer/enthusiast/collaborator/volunteer/copyright holder/rights holder/community member/community contributor/project member/project contributor/independent developer/independent contributor/open-source contributor/a Human with basic human rights who developed that content for MagentaOS
 
 ### *User-generated content, functions and security fixes
 User-generated content, functions and security fixes means everything not developed by Alexander Gal or the MagentaOS Team
 
-###### Last edited: 08/09/2026 12:06 AM | 09.08.2026 00:06
+###### Last edited: 08/12/2026 07:12 PM | 12.08.2026 19:12
