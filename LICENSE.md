@@ -2,7 +2,7 @@
 
 ## Contributing Programm
 Haha, you're funny:
-The OS is copyrighted to the MagentaOS Team, you can fork it, or to the fuck you want with it as long as you do 2 things:
+The OS is copyrighted to the MagentaOS Team, you can fork it, or do the fuck you want with it as long as you do 2 things:
 - Say clearly in the About-Section in the Settings: **Forked from MagentaOS**
 - Do not "sell" it as MagentaOS or publish it under that name
 
