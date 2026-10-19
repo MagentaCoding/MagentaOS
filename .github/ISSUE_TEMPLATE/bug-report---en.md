@@ -33,10 +33,17 @@ assignees: MagentaCoding
 
 
 ## Do you want to bother me with it?
+<!-- Answer truthfully -->
 - [ ] Yes
 - [ ] No
 
 ## Do you know how the Dev Team can reproduce the bug?
+
+
+## Are you a cybersecurity bug hunter?
+- [ ] Yes
+- [ ] No
+<!-- Because if yes then you would've needed to report at least 2 security vulnerabilities with an CVSS above 9, 4 with CVSS above 7, 6 with an CVSS above 5, 7 with an CVSS above 3 and 10 with an CVSS above 0, why you're asking yourself? Well here's why: Because you're a fucking cybersecurity expert and that is literally your entire job besides for (not necessary) meetings with your boss or team -->
 
 
 ## Additional notes?
